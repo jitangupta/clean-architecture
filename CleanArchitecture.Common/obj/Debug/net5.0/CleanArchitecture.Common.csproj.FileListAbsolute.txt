@@ -1,0 +1,11 @@
+F:\Packages\CleanArchitecture\CleanArchitecture.Common\bin\Debug\net5.0\CleanArchitecture.Common.deps.json
+F:\Packages\CleanArchitecture\CleanArchitecture.Common\bin\Debug\net5.0\CleanArchitecture.Common.dll
+F:\Packages\CleanArchitecture\CleanArchitecture.Common\bin\Debug\net5.0\ref\CleanArchitecture.Common.dll
+F:\Packages\CleanArchitecture\CleanArchitecture.Common\bin\Debug\net5.0\CleanArchitecture.Common.pdb
+F:\Packages\CleanArchitecture\CleanArchitecture.Common\obj\Debug\net5.0\CleanArchitecture.Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\Packages\CleanArchitecture\CleanArchitecture.Common\obj\Debug\net5.0\CleanArchitecture.Common.AssemblyInfoInputs.cache
+F:\Packages\CleanArchitecture\CleanArchitecture.Common\obj\Debug\net5.0\CleanArchitecture.Common.AssemblyInfo.cs
+F:\Packages\CleanArchitecture\CleanArchitecture.Common\obj\Debug\net5.0\CleanArchitecture.Common.csproj.CoreCompileInputs.cache
+F:\Packages\CleanArchitecture\CleanArchitecture.Common\obj\Debug\net5.0\CleanArchitecture.Common.dll
+F:\Packages\CleanArchitecture\CleanArchitecture.Common\obj\Debug\net5.0\ref\CleanArchitecture.Common.dll
+F:\Packages\CleanArchitecture\CleanArchitecture.Common\obj\Debug\net5.0\CleanArchitecture.Common.pdb

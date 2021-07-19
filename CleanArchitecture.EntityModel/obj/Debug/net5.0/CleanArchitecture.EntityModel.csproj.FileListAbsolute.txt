@@ -1,0 +1,15 @@
+F:\Packages\CleanArchitecture\CleanArchitecture.EntityModel\bin\Debug\net5.0\CleanArchitecture.EntityModel.deps.json
+F:\Packages\CleanArchitecture\CleanArchitecture.EntityModel\bin\Debug\net5.0\CleanArchitecture.EntityModel.dll
+F:\Packages\CleanArchitecture\CleanArchitecture.EntityModel\bin\Debug\net5.0\ref\CleanArchitecture.EntityModel.dll
+F:\Packages\CleanArchitecture\CleanArchitecture.EntityModel\bin\Debug\net5.0\CleanArchitecture.EntityModel.pdb
+F:\Packages\CleanArchitecture\CleanArchitecture.EntityModel\obj\Debug\net5.0\CleanArchitecture.EntityModel.csproj.AssemblyReference.cache
+F:\Packages\CleanArchitecture\CleanArchitecture.EntityModel\obj\Debug\net5.0\CleanArchitecture.EntityModel.GeneratedMSBuildEditorConfig.editorconfig
+F:\Packages\CleanArchitecture\CleanArchitecture.EntityModel\obj\Debug\net5.0\CleanArchitecture.EntityModel.AssemblyInfoInputs.cache
+F:\Packages\CleanArchitecture\CleanArchitecture.EntityModel\obj\Debug\net5.0\CleanArchitecture.EntityModel.AssemblyInfo.cs
+F:\Packages\CleanArchitecture\CleanArchitecture.EntityModel\obj\Debug\net5.0\CleanArchitecture.EntityModel.csproj.CoreCompileInputs.cache
+F:\Packages\CleanArchitecture\CleanArchitecture.EntityModel\obj\Debug\net5.0\CleanArchitecture.EntityModel.dll
+F:\Packages\CleanArchitecture\CleanArchitecture.EntityModel\obj\Debug\net5.0\ref\CleanArchitecture.EntityModel.dll
+F:\Packages\CleanArchitecture\CleanArchitecture.EntityModel\obj\Debug\net5.0\CleanArchitecture.EntityModel.pdb
+F:\Packages\CleanArchitecture\CleanArchitecture.EntityModel\bin\Debug\net5.0\CleanArchitecture.EntityModel.runtimeconfig.json
+F:\Packages\CleanArchitecture\CleanArchitecture.EntityModel\bin\Debug\net5.0\CleanArchitecture.EntityModel.runtimeconfig.dev.json
+F:\Packages\CleanArchitecture\CleanArchitecture.EntityModel\obj\Debug\net5.0\CleanArchitecture.EntityModel.genruntimeconfig.cache

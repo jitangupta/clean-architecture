@@ -1,0 +1,11 @@
+F:\Packages\CleanArchitecture\CleanArchitecture.Services\bin\Debug\net5.0\CleanArchitecture.Services.deps.json
+F:\Packages\CleanArchitecture\CleanArchitecture.Services\bin\Debug\net5.0\CleanArchitecture.Services.dll
+F:\Packages\CleanArchitecture\CleanArchitecture.Services\bin\Debug\net5.0\ref\CleanArchitecture.Services.dll
+F:\Packages\CleanArchitecture\CleanArchitecture.Services\bin\Debug\net5.0\CleanArchitecture.Services.pdb
+F:\Packages\CleanArchitecture\CleanArchitecture.Services\obj\Debug\net5.0\CleanArchitecture.Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\Packages\CleanArchitecture\CleanArchitecture.Services\obj\Debug\net5.0\CleanArchitecture.Services.AssemblyInfoInputs.cache
+F:\Packages\CleanArchitecture\CleanArchitecture.Services\obj\Debug\net5.0\CleanArchitecture.Services.AssemblyInfo.cs
+F:\Packages\CleanArchitecture\CleanArchitecture.Services\obj\Debug\net5.0\CleanArchitecture.Services.csproj.CoreCompileInputs.cache
+F:\Packages\CleanArchitecture\CleanArchitecture.Services\obj\Debug\net5.0\CleanArchitecture.Services.dll
+F:\Packages\CleanArchitecture\CleanArchitecture.Services\obj\Debug\net5.0\ref\CleanArchitecture.Services.dll
+F:\Packages\CleanArchitecture\CleanArchitecture.Services\obj\Debug\net5.0\CleanArchitecture.Services.pdb
